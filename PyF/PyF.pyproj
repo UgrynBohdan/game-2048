@@ -36,12 +36,14 @@
     </Interpreter>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="C++\" />
     <Folder Include="fonts\" />
+    <Folder Include="fonts\C++\" />
     <Folder Include="images\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="C++\CppF.dll" />
+    <Content Include="fonts\C++\CppF.dll" />
+    <Content Include="fonts\C++\Header.h" />
+    <Content Include="fonts\C++\Source.cpp" />
     <Content Include="fonts\Roboto-Medium.ttf" />
     <Content Include="images\2048_logo.png" />
   </ItemGroup>
